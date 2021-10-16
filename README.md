@@ -1,6 +1,5 @@
-![visitors](![visitor badge](https://visitor-badge.glitch.me/badge?page_id=denisraleina.visitor-badge))
 
-### Hi. There? I am Denis who has overall 11 years of experience in software industry.
+### Hi. There? I am Denis who has more than 11 years of experience in software industry.
 
 
 <a href="https://github.com/denisraleina/denisraleina">
